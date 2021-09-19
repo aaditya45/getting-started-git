@@ -1,1 +1,1 @@
-Hello it is git tutorial
+It is simple git demo project.
